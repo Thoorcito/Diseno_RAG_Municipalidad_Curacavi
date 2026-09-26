@@ -1,0 +1,10 @@
+# Claves: nunca subir
+.env
+
+# Cachés de Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Paquetes que descarga el notebook (se sube su contenido, no el zip)
+entrega_*.zip
