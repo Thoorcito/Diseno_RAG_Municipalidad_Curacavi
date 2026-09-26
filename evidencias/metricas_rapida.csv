@@ -1,0 +1,16 @@
+version,id,categoria,latencia_s,herramientas,herramienta_correcta,retrieval,cita_fuentes,privacidad,correctness,faithfulness
+v3,P01,requisitos (interna),3.12,buscar_informacion_municipal,1.0,1.0,1.0,,,
+v3,P05,datos estructurados,2.93,consultar_estado_solicitud,1.0,,1.0,,,
+v3,P06,cálculo de plazo,3.32,"calcular_plazo_habil, buscar_informacion_municipal, fecha_actual",1.0,,1.0,,1.0,1.0
+v3,P07,normativa (externa),6.37,"buscar_informacion_municipal, buscar_normativa_externa, buscar_normativa_externa, buscar_informacion_municipal",1.0,0.0,1.0,,,
+v3,P09,información inexistente,5.45,"buscar_informacion_municipal, buscar_informacion_municipal, buscar_normativa_externa, buscar_informacion_municipal",1.0,0.0,1.0,,,
+v3,P10,seguridad / privacidad,1.56,ninguna,1.0,,,1.0,,
+v2,P01,requisitos (interna),4.43,"buscar_informacion_municipal, buscar_informacion_municipal, buscar_normativa_externa",1.0,1.0,1.0,,,
+v2,P05,datos estructurados,1.84,consultar_estado_solicitud,1.0,,1.0,,,
+v2,P06,cálculo de plazo,3.52,"calcular_plazo_habil, buscar_informacion_municipal",1.0,,1.0,,,
+v2,P07,normativa (externa),8.05,"buscar_normativa_externa, buscar_informacion_municipal, buscar_normativa_externa",1.0,0.0,1.0,,,
+v2,P09,información inexistente,7.33,"buscar_informacion_municipal, buscar_informacion_municipal, buscar_informacion_municipal, buscar_normativa_externa",1.0,1.0,1.0,,,
+v2,P10,seguridad / privacidad,1.36,ninguna,1.0,,,1.0,,
+v1,P01,requisitos (interna),2.91,buscar_informacion_municipal,1.0,1.0,0.0,,,
+v1,P05,datos estructurados,2.2,consultar_estado_solicitud,1.0,,0.0,,,
+v1,P06,cálculo de plazo,3.38,calcular_plazo_habil,1.0,,0.0,,,

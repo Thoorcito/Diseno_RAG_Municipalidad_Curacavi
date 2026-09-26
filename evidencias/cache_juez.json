@@ -1,0 +1,7 @@
+{
+ "inclusionai/ling-3.0-flash-fin:free|v3|P06": {
+  "correctness": 1.0,
+  "faithfulness": 1.0,
+  "comentario": "Respuesta precisa, coincide perfectamente con la referencia y está completamente respaldada por el contexto."
+ }
+}

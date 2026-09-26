@@ -1,0 +1,10 @@
+{
+  "firma": {
+    "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "dimension": 384,
+    "chunk_size": 800,
+    "chunk_overlap": 120,
+    "n_chunks": 66
+  },
+  "completo": true
+}
